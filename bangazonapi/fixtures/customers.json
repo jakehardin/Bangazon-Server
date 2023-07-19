@@ -1,0 +1,32 @@
+[
+  {
+    "model": "bangazonapi.customer",
+    "pk": 1,
+    "fields": {
+      "customer_id": 1,
+      "name": "Tony",
+      "profile_image_url": "https://i.pinimg.com/originals/13/a9/41/13a9416d23220f57191bbdb9a0eab3aa.jpg",
+      "email": "tonysoprano@gmail.com"
+    }
+  },
+  {
+    "model": "bangazonapi.customer",
+    "pk": 2,
+    "fields": {
+      "customer_id": 2,
+      "name": "Vinny",
+      "profile_image_url": "https://images.genius.com/f076c8dc988be129aeecfbcd2d1d0197.1000x1000x1.jpg",
+      "email": "vinchenzobuenonetta@yahoo.com"
+    }
+  },
+  {
+    "model": "bangazonapi.customer",
+    "pk": 3,
+    "fields": {
+      "customer_id": 3,
+      "name": "Christopher",
+      "profile_image_url": "https://upload.wikimedia.org/wikipedia/en/f/ff/Christopher_Moltisanti.jpg",
+      "email": "christopherh14@gmail.com"
+    }
+  }
+]

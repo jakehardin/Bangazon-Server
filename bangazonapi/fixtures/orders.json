@@ -1,0 +1,32 @@
+[
+  {
+    "model": "bangazonapi.order",
+    "pk": 1,
+    "fields": {
+      "customer_id": 1,
+      "seller_id": 1,
+      "completed": true,
+      "date": "2023-01-01"
+    }
+  },
+  {
+    "model": "bangazonapi.order",
+    "pk": 2,
+    "fields": {
+      "customer_id": 2,
+      "seller_id": 1,
+      "completed": true,
+      "date": "2023-04-28"
+    }
+  },
+  {
+    "model": "bangazonapi.order",
+    "pk": 3,
+    "fields": {
+      "customer_id": 3,
+      "seller_id": 1,
+      "completed": true,
+      "date": "2023-02-13"
+    }
+  }
+]
