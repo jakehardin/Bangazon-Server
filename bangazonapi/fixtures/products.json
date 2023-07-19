@@ -1,0 +1,32 @@
+[
+  {
+    "model": "bangazonapi.product",
+    "pk": 1,
+    "fields": {
+      "name": "Duck Whistle",
+      "image": "https://img1.etsystatic.com/000/0/5904875/il_fullxfull.303657207.jpg",
+      "price": "21.99",
+      "uid": "fbfPGeHJaqM3zBSTYTq0vt3XOc32"
+    }
+  },
+  {
+    "model": "bangazonapi.product",
+    "pk": 2,
+    "fields": {
+      "name": "Camo Paint",
+      "image": "https://image.sportsmansguide.com/adimgs/l/2/229688_ts.jpg",
+      "price": "1.99",
+      "uid": "fbfPGeHJaqM3zBSTYTq0vt3XOc32"
+    }
+  },
+  {
+    "model": "bangazonapi.product",
+    "pk": 3,
+    "fields": {
+      "name": "Duck Hunt Game",
+      "image": "https://i.etsystatic.com/5427259/r/il/b5e607/3629727564/il_1588xN.3629727564_p7h1.jpg",
+      "price": "49.99",
+      "uid": "LX3ADqSGKTQUR37pDe0VkZGuaAs1"
+    }
+  }
+]

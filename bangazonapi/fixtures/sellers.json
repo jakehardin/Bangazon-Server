@@ -1,0 +1,35 @@
+[
+  {
+    "model": "bangazonapi.seller",
+    "pk": 1,
+    "fields": {
+      "uid": 2,
+      "seller_id": 1,
+      "name": "Carmella",
+      "profile_image_url": "https://pagesix.com/wp-content/uploads/sites/3/2019/01/carmela-06.jpg?quality=90&strip=all&w=1024",
+      "email": "carmellasoprano@gmail.com"
+    }
+  },
+  {
+    "model": "bangazonapi.seller",
+    "pk": 2,
+    "fields": {
+      "uid": 1,
+      "seller_id": 2,
+      "name": "AJ",
+      "profile_image_url": "https://tv-fanatic-res.cloudinary.com/iu/s--o3R_QSUu--/t_full/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1371163477/aj-soprano-picture.png",
+      "email": "ajsoprano99@yahoo.com"
+    }
+  },
+  {
+    "model": "bangazonapi.seller",
+    "pk": 3,
+    "fields": {
+      "uid": 3,
+      "seller_id": 3,
+      "name": "Giovanna",
+      "profile_image_url": "https://bloximages.newyork1.vip.townnews.com/nashvillescene.com/content/tncms/assets/v3/editorial/0/9b/09b5ba08-7b23-11ed-95fa-db133a39836e/6398dda182750.image.jpg?resize=540%2C810",
+      "email": "giovanna@tuttidagio.com"
+    }
+  }
+]
